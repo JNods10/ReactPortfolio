@@ -1,25 +1,17 @@
 [
     {
-      "title": "Project A",
+      "title": "Ext4 Deleted File Recovery Tool",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "I learned much about the Linux operating system, bash shell, and the Ext4 file system",
+      "skills": ["Linux Shell", "The Sleuth Kit", "File Systems"],
+      "demo": "https://github.com/JNods10/Ext4-Deleted-File-Recovery.git",
+      "source": "https://github.com/JNods10/Ext4-Deleted-File-Recovery.git"
     },
     {
-      "title": "Project B",
+      "title": "React Personal Portfolio Website",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "This endeavor allowed me to learn the fundamentals of React/Vite and allowed me to continue to improve my CSS, HTML, and JS skills",
+      "skills": ["React", "Vite", "HTML", "CSS", "JS"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
