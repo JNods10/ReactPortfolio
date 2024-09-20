@@ -1,0 +1,25 @@
+@import "../../vars.css";
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px; /* Space between project cards */
+    justify-content: center; /* Center items */
+    margin-top: 37px;
+  }
+  
+  .container {
+    margin-top: 76px;
+    color: var(--color-text);
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .title {
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    text-align: center; /* Center the title text */
+  }
+  

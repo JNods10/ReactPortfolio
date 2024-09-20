@@ -1,0 +1,24 @@
+[
+    {
+      "role": "Software Engineer Intern",
+      "organization": "Rocket Companies",
+      "startDate": "May, 2024",
+      "endDate": "August, 2024",
+      "experiences": ["I worked on a custom agile development team to take business application needs from inception to deployment", 
+                      "I engaged closely with SQL databases, C#, flyway, ASP.NET / .NET Model-view-controller (MVC) applications, and other programming tools/frameworks",
+                      "I gained exposure to Azure and AWS cloud platforms"],
+      "imageSrc": "history/rocket.png"
+    },
+    {
+      "role": "Master's Research",
+      "organization": "Bowling Green State University",
+      "startDate": "January, 2024",
+      "endDate": "December, 2024",
+      "experiences": ["For my master's degree poster project and thesis I studied deleted file recovery in the Ext4 file system as I found there to be a gap in this research.",
+      "I developed a command line digital forensics tool, using a bash shell script, and later converted into a python script, to recover deleted files from a system that uses Ext4.",
+      "My work was accepted at the 2024 DFRWS conference at Louisiana and I received a scholarship from the National Science Foundation to attend."],
+      "imageSrc": "history/Joshua_Conference.png"
+    }
+  ]
+
+  

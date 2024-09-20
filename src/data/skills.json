@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Python",
+      "imageSrc": "https://go-skill-icons.vercel.app/api/icons?i=python"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "https://go-skill-icons.vercel.app/api/icons?i=linux"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "https://go-skill-icons.vercel.app/api/icons?i=cs"
+    },
+    {
+      "title": "Django",
+      "imageSrc": "https://go-skill-icons.vercel.app/api/icons?i=django"
+    },
+    {
+      "title": "Azure",
+      "imageSrc": "https://go-skill-icons.vercel.app/api/icons?i=azure"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "https://go-skill-icons.vercel.app/api/icons?i=postman"
+    }
+    ,
+    {
+      "title": "Postgres",
+      "imageSrc": "https://go-skill-icons.vercel.app/api/icons?i=postgres"
+    }
+    ,
+    {
+      "title": "React",
+      "imageSrc": "https://go-skill-icons.vercel.app/api/icons?i=react"
+    }
+    ,
+    {
+      "title": "Git",
+      "imageSrc": "https://go-skill-icons.vercel.app/api/icons?i=git"
+    }
+    ,
+    {
+      "title": "Dotnet",
+      "imageSrc": "https://go-skill-icons.vercel.app/api/icons?i=dotnet"
+    }
+    
+
+
+
+  ]
