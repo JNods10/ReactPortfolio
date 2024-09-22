@@ -110,14 +110,17 @@
     background-color: transparent;
     padding-left: 0;
     padding-right: 0;
+    display: inline-grid;
   }
 
   .content {
-    flex-direction: column;
+    display: grid;
   }
 
   .aboutImage {
-    display: none;
+    display: grid;
+    height: 100px;
+    width: 100px;
   }
 
   .aboutItems {
@@ -127,6 +130,7 @@
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
+    display: grid;
   }
 }
 
