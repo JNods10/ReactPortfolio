@@ -100,12 +100,8 @@
   font-size: 25px;
 }
 
-.aboutItem .realImg {
-  width: 500px;
-  height: 300px;
-}
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 1000px) {
   .container {
     background-color: transparent;
     padding-left: 0;
@@ -115,12 +111,8 @@
 
   .content {
     display: grid;
-  }
-
-  .aboutImage {
-    display: grid;
-    height: 100px;
-    width: 100px;
+    width: auto;
+    height: auto;
   }
 
   .aboutItems {
@@ -131,6 +123,19 @@
     padding-left: 0;
     padding-right: 0;
     display: grid;
+    width: 75%;
+    height: 75%;
+  }
+
+  .aboutItem img {
+    width: 400px;
+    height: 400px;
+  }
+
+  .aboutItem p {
+    font-size: 25px;
+    width: 75%;
+    height: 75%
   }
 }
 
