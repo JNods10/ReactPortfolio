@@ -12,13 +12,12 @@ export const Hero = () => {
             />
             <h1 className={styles.title}>Hi, I am Joshua</h1>
             <p className={styles.description}> 
-            My name is Joshua Nodler and I am currently a computer science
-            masters student at Bowling Green State University.  I began my college 
-            career at Michigan State University where I studied Computer Science 
-            for three years.  After transferring to  the University of Massachusetts Amherst
-            I earned my Bachelors Degree in Computer Science in the Summer of 2023 from the 
+            My name is Joshua Nodler and I am a software engineer!.  I began my college 
+            career at Michigan State University where I studied computer science 
+            for three years.  After transferring to the University of Massachusetts Amherst
+            I earned my Bachelors degree in computer science in the Summer of 2023 from the 
             Manning College of Information & Computer Sciences.  I am currently completing my
-            final graduate level semester at Bowling Green State University.  I have competed 
+            final graduate level semester at Bowling Green State University where I will earn a masters degree in computer science.  I have competed 
             as a Division I college hockey player at all three of the aforementioned schools
             while simultaneously pursuing my education. I pride myself on being resilient, 
             problem-solving orientated, and passionate about learning and collaborating in a 

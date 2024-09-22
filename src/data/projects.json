@@ -2,7 +2,7 @@
     {
       "title": "Ext4 Deleted File Recovery Tool",
       "imageSrc": "projects/project.png",
-      "description": "I learned much about the Linux operating system, bash shell, and the Ext4 file system",
+      "description": "I learned a ton about topics such as the Linux operating system, bash shell, and the Ext4 file system.",
       "skills": ["Linux Shell", "The Sleuth Kit", "File Systems"],
       "demo": "https://github.com/JNods10/Ext4-Deleted-File-Recovery.git",
       "source": "https://github.com/JNods10/Ext4-Deleted-File-Recovery.git"
@@ -12,7 +12,7 @@
       "imageSrc": "projects/project.png",
       "description": "This endeavor allowed me to learn the fundamentals of React/Vite and allowed me to continue to improve my CSS, HTML, and JS skills",
       "skills": ["React", "Vite", "HTML", "CSS", "JS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://jnods10.github.io/ReactPortfolio",
+      "source": "https://github.com/JNods10/ReactPortfolio.git"
     }
   ]

@@ -13,19 +13,20 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Email icon" />
+          <a href="mailto:jdnodler@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Email icon" /></a>
           <a href="mailto:jdnodler@gmail.com">jdnodler@gmail.com</a>
         </li>
         <li className={styles.link}>
-          <img
+        <a href="https://www.linkedin.com/in/joshua-nodler-771592294/" target="_blank">
+        <img
             src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
             alt="LinkedIn icon"
-          />
-          <a href="www.linkedin.com/in/joshua-nodler-771592294">LINKEDIN</a>
+          /></a>
+          <a href="https://www.linkedin.com/in/joshua-nodler-771592294/" target="_blank" >LinkedIn</a>
         </li>
         <li className={styles.link}>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="Github icon" />
-          <a href="https://github.com/JNods10">GITHUB</a>
+        <a href="https://github.com/JNods10"  target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="Github icon" /></a>
+          <a href="https://github.com/JNods10"  target="_blank">Github</a>
         </li>
       </ul>
     </footer>
