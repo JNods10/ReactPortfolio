@@ -22,7 +22,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3 className={styles.msuTitle}>Michigan State</h3>
               <p>
-                Michigan State University is where began college.  I studied and focused on many of the fundamentals 
+                Michigan State University is where I began college.  I studied and focused on many of the fundamentals 
                 of computer science including core topics such as algorithms and data structures, 
                 Object Oriented Programming (OOP), and software development. 
               </p>
