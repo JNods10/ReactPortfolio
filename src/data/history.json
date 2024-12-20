@@ -14,9 +14,12 @@
       "organization": "Bowling Green State University",
       "startDate": "January, 2024",
       "endDate": "December, 2024",
-      "experiences": ["For my master's degree poster project and thesis I studied deleted file recovery in the Ext4 file system as I found there to be a gap in this research.",
-      "I developed a command line digital forensics tool, using a bash shell script, and later converted into a python script, to recover deleted files from a system that uses Ext4.",
-      "My work was accepted at the 2024 DFRWS conference at Louisiana and I received a scholarship from the National Science Foundation to attend."],
+      "experiences": ["Developed a Python-based deleted file recovery tool leveraging The Sleuth Kit to analyze and recover data from the Ext4 file system (initial tool deployment used a shell script)",
+      "Initial research poster accepted to the Digital Forensics Research Workshop (DFRWS) 2024",
+      "Received a scholarship from the National Science Foundation (NSF) to attend",
+      "Deployed and tested solutions on Azure, utilizing cloud-based shell environments for efficient code execution and storage of test disk images",
+      "Utilized GitHub for version control and collaboration, ensuring codebase integrity, up-to-date revisions, and seamless team contributions throughout the project lifecycle",
+      "My Master’s thesis based on this work was approved and published on OhioLINK, demonstrating academic rigor and contributing to the field of forensic data recovery research"],
       "imageSrc": "history/Joshua_Conference.png"
     }
   ]

@@ -1,8 +1,8 @@
 [
     {
-      "title": "Ext4 Deleted File Recovery Tool",
+      "title": "Ext4 Deleted File Recovery Tool Poster",
       "imageSrc": "projects/project.png",
-      "description": "I learned a ton about topics such as the Linux operating system, bash shell, and the Ext4 file system.",
+      "description": "As part of my master's degree progression I created a research poster on Ext4 Deleted File Recovery. My research poster was accepted at DFRWS 2024, supported by an NSF scholarship. I learned a ton about topics such as the Linux operating system, bash shell, and the Ext4 file system.",
       "skills": ["Linux Shell", "The Sleuth Kit", "File Systems"],
       "demo": "https://github.com/JNods10/Ext4-Deleted-File-Recovery.git",
       "source": "https://github.com/JNods10/Ext4-Deleted-File-Recovery.git"
@@ -14,5 +14,13 @@
       "skills": ["React", "Vite", "HTML", "CSS", "JS"],
       "demo": "https://jnods10.github.io/ReactPortfolio",
       "source": "https://github.com/JNods10/ReactPortfolio.git"
+    },
+    {
+      "title": "Ext4 Deleted File Recovery Tool Thesis",
+      "imageSrc": "projects/project.png",
+      "description": "I developed a Python-based tool that leverages The Sleuth Kit to recover deleted files from the Ext4 file system. The project utilized Azure for testing and GitHub for version control, ensuring efficient collaboration and a robust codebase. This work culminated in my Master’s thesis, published on OhioLINK, advancing forensic data recovery research.",
+      "skills": ["Azure", "Python", "Git/GitHub", "Linux OS"],
+      "demo": "https://github.com/JNods10/EXT4ThesisWork",
+      "source": "https://github.com/JNods10/EXT4ThesisWork"
     }
   ]
